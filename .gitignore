@@ -1,0 +1,12 @@
+node_modules
+.lsp
+.clj-kondo
+.cpcache
+target
+.nrepl-port
+
+/node_modules/
+/.shadow-cljs/
+/resources/assets/js
+/src/config.edn
+src/config.edn
